@@ -540,8 +540,6 @@ def final_placer_lines():
 
 run = True
 
-temp = input("hello")
-
 while run == True:
     ask()
     duplicate_file()
